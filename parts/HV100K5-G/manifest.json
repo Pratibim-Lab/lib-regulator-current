@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Current/HV100K5-G:HV100K5-G",
+  "name": "HV100K5-G",
+  "library": "Regulator_Current",
+  "file": "Regulator_Current.kicad_symdir/HV100K5-G.kicad_sym",
+  "description": "Hot-Swap Current Limiter Controller, SOT223",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/hv100%20b060513.pdf",
+  "keywords": "Hot-Swap Current Limiter",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-current@master/parts/HV100K5-G/",
+  "part_path": "parts/HV100K5-G",
+  "symbol_file": "parts/HV100K5-G/HV100K5-G.kicad_sym",
+  "source_library": "Regulator_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:15.501Z"
+}
